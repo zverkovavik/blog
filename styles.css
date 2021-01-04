@@ -1,29 +1,29 @@
 body {
-padding: 0px;
-margin: 0px;
+  padding: 0px;
+  margin: 0px;
 
-font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 h2 {
-  font-family: 'Spectral SC', serif;
+  font-family: "Spectral SC", serif;
 }
- h3 {
-  font-family: 'Spectral SC', serif;
+h3 {
+  font-family: "Spectral SC", serif;
 }
 
 header .main-image {
-width: 1440px;
-height: 581px;
-margin-bottom: 83px;
+  width: 1440px;
+  height: 581px;
+  margin-bottom: 83px;
 }
 
 header .logo {
-position: absolute;
-width: 130px;
-height: 82.51px;
-left: 120px;
-top: 4px;
+  position: absolute;
+  width: 130px;
+  height: 82.51px;
+  left: 120px;
+  top: 4px;
 }
 
 header a {
@@ -31,7 +31,7 @@ header a {
   font-weight: normal;
   font-size: 18px;
   line-height: 25px;
-  color: #2E2F22;
+  color: #2e2f22;
   text-decoration: none;
 }
 
@@ -68,50 +68,50 @@ top: 33px;
 } */
 
 main {
-  width: 1200px; 
+  width: 1200px;
   margin: auto;
 }
 
 .choose-theme {
-position: absolute;
-/* visibility: hidden; */
-width: 203px;
-height: 178px;
-/* right: 0;
+  position: absolute;
+  /* visibility: hidden; */
+  width: 203px;
+  height: 178px;
+  /* right: 0;
 top: 0; */
-background-color: #D7D1C9;
-border-radius: 10%;
+  background-color: #d7d1c9;
+  border-radius: 10%;
 }
 
 .first-line h3 {
   font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 27px;
-color: #2E2F22;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  color: #2e2f22;
 }
 .first-line p {
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 26px;
-color: #2E2F22;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #2e2f22;
 }
 
-.first-line time { 
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 26px;
-color: rgba(46, 47, 34, 0.7);
+.first-line time {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: rgba(46, 47, 34, 0.7);
 }
 
 .first-line .teg {
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 26px;
-color: rgba(46, 47, 34, 0.7);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: rgba(46, 47, 34, 0.7);
 }
 
 .first-line img {
@@ -128,8 +128,7 @@ color: rgba(46, 47, 34, 0.7);
   height: 552px;
   font-style: normal;
   font-weight: normal;
-  color: #FFFFFF;
-
+  color: #ffffff;
 }
 
 .second-line h3 {
@@ -138,7 +137,7 @@ color: rgba(46, 47, 34, 0.7);
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .second-line p {
@@ -158,34 +157,34 @@ color: rgba(46, 47, 34, 0.7);
 }
 
 .second-line article:nth-child(1) {
-  background-image: url(img/Mask\ Group\ \(3\).jpg);
+  background-image: url(img/Mask\Group\(3\.jpg);
 }
 
 .second-line article:nth-child(2) {
-  background-image: url(img/Mask\ Group\ \(4\).jpg);
+  background-image: url(img/Mask\Group\(4\.jpg);
 }
 
 button .show-more {
-margin-top: 116px;
-padding: 12px 58px;
-text-align: center;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 22px;
-color: #202117;
-border: 1px solid #202117;
-border-radius: 5%;
-background-color: white;
-
+  margin-top: 116px;
+  padding: 12px 58px;
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #202117;
+  border: 1px solid #202117;
+  border-radius: 5%;
+  background-color: white;
 }
 
 .info-about-me h2 {
   font-style: normal;
-font-weight: bold;
-font-size: 36px;
-line-height: 55px;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 55px;
   text-align: center;
+  color: grey;
 }
 
 .about-me {
@@ -193,9 +192,9 @@ line-height: 55px;
 }
 
 .about-me-img {
-width: 590px;
-height: 693px;
-margin-right: 40px;
+  width: 590px;
+  height: 693px;
+  margin-right: 40px;
 }
 
 .text {
@@ -217,17 +216,17 @@ margin-right: 40px;
   width: 550px;
   height: 160px;
   font-family: Open Sans;
-font-style: italic;
-font-weight: normal;
-font-size: 30px;
-line-height: 40px;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 40px;
 }
 
 main h3 {
-font-style: normal;
-font-size: 36px;
-line-height: 55px;
-color: #2E2F22;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 55px;
+  color: #2e2f22;
 }
 
 .first-line {
@@ -247,57 +246,57 @@ div .portfolio {
   height: 525px;
   border-radius: 10%;
   font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 26px;
-text-align: center;
-color: #2E2F22;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #2e2f22;
 }
 
 .portfolio .first-title {
   font-weight: bold;
-font-size: 20px;
-line-height: 30px;
-color: #2E2F22;
+  font-size: 20px;
+  line-height: 30px;
+  color: #2e2f22;
 }
 
 .portfolio .second-title {
   font-weight: bold;
   font-size: 18px;
   line-height: 28px;
-color: #2E2F22;
+  color: #2e2f22;
 }
 
-.portfolio article:nth-child(1) { 
-  background-image: url(img/Mask\ Group\ \(6\).jpg);
+.portfolio article:nth-child(1) {
+  background-image: url(img/Mask\Group\(6\.jpg);
 }
 
-.portfolio article:nth-child(2) { 
-  background-image: url(img/Mask\ Group\ \(3\).png);
-  color: #FFFFFF;
+.portfolio article:nth-child(2) {
+  background-image: url(img/Mask\Group\(3\.png);
+  color: #ffffff;
 }
 
-.portfolio article:nth-child(3) { 
+.portfolio article:nth-child(3) {
   background-image: url(img/Mask\ Group.png);
 }
 
 footer {
-/* position: absolute; */
-width: 1440px;
-height: 181px;
-/* left: 0px;
+  /* position: absolute; */
+  width: 1440px;
+  height: 181px;
+  /* left: 0px;
 top: 4607px; */
-background: #D7D1C9;
+  background: #d7d1c9;
 }
 
 footer a {
-margin: auto;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 25px;
-color:#2E2F22;
-text-decoration: none;
+  margin: auto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #2e2f22;
+  text-decoration: none;
 }
 
 /* footer a:nth-child(1) {
@@ -330,4 +329,4 @@ width: 70px;
 height: 25px;
 left: 966px;
 top: 4672px;
-} */ 
+} */
